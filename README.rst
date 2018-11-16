@@ -28,7 +28,7 @@ example:
 
 output:
 audio/noise mixed files are:  
-```./data/mixedaudZorro/mixed_1.wav  ```
+``./data/mixedaudZorro/mixed_1.wav  ``
 ```./data/mixedaudZorro/mixed_10.wav  ```
 ```./data/mixedaudZorro/mixed_2.wav  ```
 ```./data/mixedaudZorro/mixed_3.wav  ```
