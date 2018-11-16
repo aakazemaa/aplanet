@@ -17,10 +17,14 @@ How to generate the mixed files:
 Generate mixed audio noise files
 
 ``positional arguments:``
+
   ``noisedir    spcefiy where the noise files are located``
+  
   ``audiodir    spcefiy where the audio files are located``
+  
   ``mixeddir    spcefiy where the output dir for mixed files audio/noise are located``
-  ``SNR         spcefiy SNR level
+  
+  ``SNR         spcefiy SNR level``
 
 example:
 
