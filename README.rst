@@ -51,30 +51,43 @@ audio/noise mixed files are:
 
 
 Input noise files are located at:
-ls -1 data/noise/
-noise1.wav
-noise10.wav
-noise2.wav
-noise3.wav
-noise4.wav
-noise5.wav
-noise6.wav
-noise7.wav
-noise8.wav
-noise9.wav
+
+``ls -1 data/noise/``
+
+``noise1.wav``
+
+``noise10.wav``
+
+``noise2.wav``
+
+``noise3.wav``
+
+``noise4.wav``
+
+``noise5.wav``
+
+``noise6.wav``
+
+``noise7.wav``
+
+``noise8.wav``
+
+``noise9.wav``
 
 
 Input audio files are located at:
-ls -1 data/audio/
-1.wav
-10.wav
-2.wav
-3.wav
-4.wav
-5.wav
-6.wav
-7.wav
-8.wav
-9.wav
+
+``ls -1 data/audio/``
+
+``1.wav``
+``10.wav``
+``2.wav``
+``3.wav``
+``4.wav``
+``5.wav``
+``6.wav``
+``7.wav``
+``8.wav``
+``9.wav``
 
 Note: soundmixture.log will contain information about latest conversion date and can be expanded for more details.
