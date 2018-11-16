@@ -14,7 +14,7 @@ How to generate the mixed files:
 
 ``usage: wavegenerator.py [-h] noisedir audiodir mixeddir SNR``
 
-Generate mixed audio noise files
+``Generate mixed audio noise files``
 
 ``positional arguments:``
 
