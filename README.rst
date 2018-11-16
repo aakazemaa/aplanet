@@ -8,18 +8,19 @@ A utility create_noise_files.py creates noise files. However, valid audio wav fi
 be provided.
 
 How to install:
-sudo python setup.py install
+``sudo python setup.py install``
 
 How to generate the mixed files:
-usage: wavegenerator.py [-h] noisedir audiodir mixeddir SNR
+
+``usage: wavegenerator.py [-h] noisedir audiodir mixeddir SNR``
 
 Generate mixed audio noise files
 
-positional arguments:
-  noisedir    spcefiy where the noise files are located
-  audiodir    spcefiy where the audio files are located
-  mixeddir    spcefiy where the output dir for mixed files audio/noise are located
-  SNR         spcefiy SNR level
+``positional arguments:``
+  ``noisedir    spcefiy where the noise files are located``
+  ``audiodir    spcefiy where the audio files are located``
+  ``mixeddir    spcefiy where the output dir for mixed files audio/noise are located``
+  ``SNR         spcefiy SNR level
 
 example:
 
