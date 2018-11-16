@@ -14,16 +14,17 @@ How to generate the mixed files:
 usage: wavegenerator.py [-h] noisedir audiodir mixeddir SNR
 
 Generate mixed audio noise files
-
+```
 positional arguments:
   noisedir    spcefiy where the noise files are located
   audiodir    spcefiy where the audio files are located
   mixeddir    spcefiy where the output dir for mixed files audio/noise are located
   SNR         spcefiy SNR level
-
+```
 example:
+```
 python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30
-
+```
 ```
 output:
 audio/noise mixed files are:  
