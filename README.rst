@@ -25,6 +25,7 @@ example:
 
 ```python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30```
 
+```
 output:
 audio/noise mixed files are:  
 ./data/mixedaudZorro/mixed_1.wav  
@@ -37,7 +38,7 @@ audio/noise mixed files are:
 ./data/mixedaudZorro/mixed_7.wav  
 ./data/mixedaudZorro/mixed_8.wav  
 ./data/mixedaudZorro/mixed_9.wav  
-
+```
 
 Input noise files are located at:
 ls -1 data/noise/
