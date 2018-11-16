@@ -14,18 +14,18 @@ How to generate the mixed files:
 usage: wavegenerator.py [-h] noisedir audiodir mixeddir SNR
 
 Generate mixed audio noise files
-```
+
 positional arguments:
   noisedir    spcefiy where the noise files are located
   audiodir    spcefiy where the audio files are located
   mixeddir    spcefiy where the output dir for mixed files audio/noise are located
   SNR         spcefiy SNR level
-```
+
 example:
-```
+
 python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30
-```
-```
+
+
 output:
 audio/noise mixed files are:  
 ./data/mixedaudZorro/mixed_1.wav  
@@ -38,9 +38,8 @@ audio/noise mixed files are:
 ./data/mixedaudZorro/mixed_7.wav  
 ./data/mixedaudZorro/mixed_8.wav  
 ./data/mixedaudZorro/mixed_9.wav  
-```
 
-```
+
 Input noise files are located at:
 ls -1 data/noise/
 noise1.wav
@@ -53,8 +52,8 @@ noise6.wav
 noise7.wav
 noise8.wav
 noise9.wav
-```
-```
+
+
 Input audio files are located at:
 ls -1 data/audio/
 1.wav
@@ -67,5 +66,5 @@ ls -1 data/audio/
 7.wav
 8.wav
 9.wav
-```
+
 Note: soundmixture.log will contain information about latest conversion date and can be expanded for more details.
