@@ -23,21 +23,31 @@ positional arguments:
 
 example:
 
-```python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30```
+``python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30``
 
 
 output:
 audio/noise mixed files are:  
-./data/mixedaudZorro/mixed_1.wav 
-./data/mixedaudZorro/mixed_10.wav 
-./data/mixedaudZorro/mixed_2.wav  
-./data/mixedaudZorro/mixed_3.wav  
-./data/mixedaudZorro/mixed_4.wav  
-./data/mixedaudZorro/mixed_5.wav  
-./data/mixedaudZorro/mixed_6.wav 
-./data/mixedaudZorro/mixed_7.wav 
-./data/mixedaudZorro/mixed_8.wav  
-./data/mixedaudZorro/mixed_9.wav  
+
+``./data/mixedaudZorro/mixed_1.wav``
+
+``./data/mixedaudZorro/mixed_10.wav``
+
+``./data/mixedaudZorro/mixed_2.wav``
+
+``./data/mixedaudZorro/mixed_3.wav`` 
+
+``./data/mixedaudZorro/mixed_4.wav``
+
+``./data/mixedaudZorro/mixed_5.wav``
+
+``./data/mixedaudZorro/mixed_6.wav``
+
+``./data/mixedaudZorro/mixed_7.wav``
+
+``./data/mixedaudZorro/mixed_8.wav``  
+
+``./data/mixedaudZorro/mixed_9.wav``  
 
 
 Input noise files are located at:
