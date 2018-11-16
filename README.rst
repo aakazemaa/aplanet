@@ -23,8 +23,7 @@ positional arguments:
 
 example:
 
-python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30
-
+```python soundmixture/wavegenerator.py ./data/noise/ ./data/audio/ ./data/mixedaudZorro -30```
 
 output:
 audio/noise mixed files are:  
