@@ -1,6 +1,6 @@
 from setuptools import setup
 
-# Testing webhook 7.
+# Testing webhook 8.
 
 def readme():
     with open('README.rst') as f:
