@@ -5,6 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'The Ascend'
+                echo 'The confinment of s o c'
             }
         }
     }
