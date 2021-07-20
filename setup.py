@@ -17,7 +17,6 @@ setup(  name='soundmixture',
         install_requires=[
           'pydub',
           'scipy',
-          
       ],
         zip_safe=False)
 
